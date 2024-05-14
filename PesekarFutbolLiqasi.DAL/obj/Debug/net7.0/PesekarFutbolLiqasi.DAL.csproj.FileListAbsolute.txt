@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\bin\Debug\net7.0\PesekarFutbolLiqasi.DAL.deps.json
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\bin\Debug\net7.0\PesekarFutbolLiqasi.DAL.runtimeconfig.json
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\bin\Debug\net7.0\PesekarFutbolLiqasi.DAL.dll
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\bin\Debug\net7.0\PesekarFutbolLiqasi.DAL.pdb
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\obj\Debug\net7.0\PesekarFutbolLiqasi.DAL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\obj\Debug\net7.0\PesekarFutbolLiqasi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\obj\Debug\net7.0\PesekarFutbolLiqasi.DAL.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\obj\Debug\net7.0\PesekarFutbolLiqasi.DAL.AssemblyInfo.cs
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\obj\Debug\net7.0\PesekarFutbolLiqasi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\obj\Debug\net7.0\PesekarFutbolLiqasi.DAL.dll
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\obj\Debug\net7.0\refint\PesekarFutbolLiqasi.DAL.dll
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\obj\Debug\net7.0\PesekarFutbolLiqasi.DAL.pdb
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\obj\Debug\net7.0\PesekarFutbolLiqasi.DAL.genruntimeconfig.cache
+C:\Users\hp\Desktop\HomeTask\PeşəkarFutbolLiqası\PesekarFutbolLiqasi.DAL\obj\Debug\net7.0\ref\PesekarFutbolLiqasi.DAL.dll
