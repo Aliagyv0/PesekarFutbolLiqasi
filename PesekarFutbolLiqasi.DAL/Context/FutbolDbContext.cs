@@ -15,20 +15,13 @@ namespace PesekarFutbolLiqasi.DAL.Context
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
            
-            optionsBuilder.UseLazyLoadingProxies().UseSqlServer(CustomSQLConnection.ConnnectionString);
+            optionsBuilder.UseSqlServer(CustomSQLConnection.ConnnectionString);
       
         }
         public DbSet<Futbolcu> Futbolcular { get; set; }
         public DbSet<Komanda> Komandalar { get; set; }
         public DbSet<Oyun> Oyunlar { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys()))
-            {
-                relationship.DeleteBehavior = DeleteBehavior.Restrict;
-            }
-
-        }
+      
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PesakarFutbolLiqasi.UII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5aaf332dd8ffe9935c64a56c87b38ad6cd25642c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PesakarFutbolLiqasi.UII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PesakarFutbolLiqasi.UII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,9 +18,6 @@ namespace PesekarFutbolLiqasi.DAL.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("ProductVersion", "7.0.18")
-                .HasAnnotation("Proxies:ChangeTracking", false)
-                .HasAnnotation("Proxies:CheckEquality", false)
-                .HasAnnotation("Proxies:LazyLoading", true)
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -56,7 +53,7 @@ namespace PesekarFutbolLiqasi.DAL.Migrations
 
                     b.HasIndex("KomandaId");
 
-                    b.ToTable("Futbolcular", (string)null);
+                    b.ToTable("Futbolcular");
                 });
 
             modelBuilder.Entity("PeşəkarFutbolLiqası.DAL.Models.Komanda", b =>
@@ -94,7 +91,7 @@ namespace PesekarFutbolLiqasi.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Komandalar", (string)null);
+                    b.ToTable("Komandalar");
                 });
 
             modelBuilder.Entity("PeşəkarFutbolLiqası.DAL.Models.Oyun", b =>
@@ -132,7 +129,7 @@ namespace PesekarFutbolLiqasi.DAL.Migrations
 
                     b.HasIndex("QonaqId");
 
-                    b.ToTable("Oyunlar", (string)null);
+                    b.ToTable("Oyunlar");
                 });
 
             modelBuilder.Entity("PeşəkarFutbolLiqası.DAL.Models.Futbolcu", b =>
@@ -140,7 +137,7 @@ namespace PesekarFutbolLiqasi.DAL.Migrations
                     b.HasOne("PeşəkarFutbolLiqası.DAL.Models.Komanda", "Komanda")
                         .WithMany("Futbolcular")
                         .HasForeignKey("KomandaId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Komanda");
@@ -149,15 +146,15 @@ namespace PesekarFutbolLiqasi.DAL.Migrations
             modelBuilder.Entity("PeşəkarFutbolLiqası.DAL.Models.Oyun", b =>
                 {
                     b.HasOne("PeşəkarFutbolLiqası.DAL.Models.Komanda", "EvSahibi")
-                        .WithMany()
+                        .WithMany("EvSahibiOyunlar")
                         .HasForeignKey("EvSahibiId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("PeşəkarFutbolLiqası.DAL.Models.Komanda", "Qonaq")
-                        .WithMany()
+                        .WithMany("QonaqOyunlar")
                         .HasForeignKey("QonaqId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("EvSahibi");
@@ -167,7 +164,11 @@ namespace PesekarFutbolLiqasi.DAL.Migrations
 
             modelBuilder.Entity("PeşəkarFutbolLiqası.DAL.Models.Komanda", b =>
                 {
+                    b.Navigation("EvSahibiOyunlar");
+
                     b.Navigation("Futbolcular");
+
+                    b.Navigation("QonaqOyunlar");
                 });
 #pragma warning restore 612, 618
         }

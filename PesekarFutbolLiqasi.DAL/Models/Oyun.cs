@@ -14,9 +14,8 @@ namespace PeşəkarFutbolLiqası.DAL.Models
         public int QonaqId{ get; set; }
         public int EvSahibiQolSayı { get; set; }
         public int QonaqQolSayı { get; set; }
-        public virtual Komanda EvSahibi {  get; set; }
-        public virtual Komanda Qonaq {  get; set; }
-
+        public  Komanda EvSahibi {  get; set; }
+        public  Komanda Qonaq {  get; set; }
 
     }
 }

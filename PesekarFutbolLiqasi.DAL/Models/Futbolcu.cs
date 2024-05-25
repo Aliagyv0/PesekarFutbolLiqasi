@@ -13,7 +13,7 @@ namespace PeşəkarFutbolLiqası.DAL.Models
         public string AdSoyad { get; set; }      
         public int AtdigiQolSayi { get; set; }
         public int KomandaId { get; set; }
-        public virtual Komanda Komanda { get; set; }
+        public  Komanda Komanda { get; set; }
     }
 
 }

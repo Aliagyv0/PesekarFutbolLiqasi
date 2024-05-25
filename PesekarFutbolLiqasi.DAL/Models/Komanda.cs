@@ -1,6 +1,7 @@
 ﻿using PesekarFutbolLiqasi.DAL.Models;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,7 +16,11 @@ namespace PeşəkarFutbolLiqası.DAL.Models
         public int MeglubiyyetSayi { get; set; }
         public int AtdigiQolSayi { get; set; }
         public int YediyiQolSayi { get; set; }
-        public virtual List <Futbolcu> Futbolcular {  get; set; }
+        public  List <Futbolcu> Futbolcular {  get; set; }
+        [InverseProperty("EvSahibi")]
+        public List<Oyun> EvSahibiOyunlar { get; set; }
+        [InverseProperty("Qonaq")]
+        public List<Oyun> QonaqOyunlar { get; set; }
        
     }
 }

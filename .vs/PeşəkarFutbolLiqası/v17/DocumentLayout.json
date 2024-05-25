@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3A00FC-4708-4956-96B5-749C7F9520A8}|Pe\u015F\u0259karFutbolLiqas\u0131\\Pe\u015F\u0259karFutbolLiqas\u0131.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pe\u015F\u0259karfutbolliqas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3A00FC-4708-4956-96B5-749C7F9520A8}|Pe\u015F\u0259karFutbolLiqas\u0131\\Pe\u015F\u0259karFutbolLiqas\u0131.csproj|solutionrelative:pe\u015F\u0259karfutbolliqas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pesekarfutbolliqasi.dal\\context\\futboldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|solutionrelative:pesekarfutbolliqasi.dal\\context\\futboldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pesekarfutbolliqasi.dal\\models\\oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|solutionrelative:pesekarfutbolliqasi.dal\\models\\oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pesekarfutbolliqasi.dal\\util\\customsqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|solutionrelative:pesekarfutbolliqasi.dal\\util\\customsqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pesekarfutbolliqasi.dal\\models\\komanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|solutionrelative:pesekarfutbolliqasi.dal\\models\\komanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pesekarfutbolliqasi.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|solutionrelative:pesekarfutbolliqasi.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pesekarfutbolliqasi.dal\\models\\futbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|solutionrelative:pesekarfutbolliqasi.dal\\models\\futbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pesekarfutbolliqasi.dal\\repositories\\implentations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|solutionrelative:pesekarfutbolliqasi.dal\\repositories\\implentations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3A00FC-4708-4956-96B5-749C7F9520A8}|Pe\u015F\u0259karFutbolLiqas\u0131\\Pe\u015F\u0259karFutbolLiqas\u0131.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pe\u015F\u0259karfutbolliqas\u0131\\management\\interfaces\\igenericmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3A00FC-4708-4956-96B5-749C7F9520A8}|Pe\u015F\u0259karFutbolLiqas\u0131\\Pe\u015F\u0259karFutbolLiqas\u0131.csproj|solutionrelative:pe\u015F\u0259karfutbolliqas\u0131\\management\\interfaces\\igenericmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3A00FC-4708-4956-96B5-749C7F9520A8}|Pe\u015F\u0259karFutbolLiqas\u0131\\Pe\u015F\u0259karFutbolLiqas\u0131.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pe\u015F\u0259karfutbolliqas\u0131\\management\\futbolcumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3A00FC-4708-4956-96B5-749C7F9520A8}|Pe\u015F\u0259karFutbolLiqas\u0131\\Pe\u015F\u0259karFutbolLiqas\u0131.csproj|solutionrelative:pe\u015F\u0259karfutbolliqas\u0131\\management\\futbolcumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3A00FC-4708-4956-96B5-749C7F9520A8}|Pe\u015F\u0259karFutbolLiqas\u0131\\Pe\u015F\u0259karFutbolLiqas\u0131.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pe\u015F\u0259karfutbolliqas\u0131\\management\\oyunmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3A00FC-4708-4956-96B5-749C7F9520A8}|Pe\u015F\u0259karFutbolLiqas\u0131\\Pe\u015F\u0259karFutbolLiqas\u0131.csproj|solutionrelative:pe\u015F\u0259karfutbolliqas\u0131\\management\\oyunmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3A00FC-4708-4956-96B5-749C7F9520A8}|Pe\u015F\u0259karFutbolLiqas\u0131\\Pe\u015F\u0259karFutbolLiqas\u0131.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pe\u015F\u0259karfutbolliqas\u0131\\management\\komandamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3A00FC-4708-4956-96B5-749C7F9520A8}|Pe\u015F\u0259karFutbolLiqas\u0131\\Pe\u015F\u0259karFutbolLiqas\u0131.csproj|solutionrelative:pe\u015F\u0259karfutbolliqas\u0131\\management\\komandamanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B173774-CFA2-4787-BE8A-FB6076308C7B}|PesakarFutbolLiqasi.BL\\PesakarFutbolLiqasi.BL.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pesakarfutbolliqasi.bl\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B173774-CFA2-4787-BE8A-FB6076308C7B}|PesakarFutbolLiqasi.BL\\PesakarFutbolLiqasi.BL.csproj|solutionrelative:pesakarfutbolliqasi.bl\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pesekarfutbolliqasi.dal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|solutionrelative:pesekarfutbolliqasi.dal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B173774-CFA2-4787-BE8A-FB6076308C7B}|PesakarFutbolLiqasi.BL\\PesakarFutbolLiqasi.BL.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pesakarfutbolliqasi.bl\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B173774-CFA2-4787-BE8A-FB6076308C7B}|PesakarFutbolLiqasi.BL\\PesakarFutbolLiqasi.BL.csproj|solutionrelative:pesakarfutbolliqasi.bl\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|c:\\users\\ali\\desktop\\ali\\pesekarfutbolliqasi\\pesekarfutbolliqasi\\pesekarfutbolliqasi.dal\\migrations\\20240518123522_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E891498F-48BE-4956-915C-010A0F758E96}|PesekarFutbolLiqasi.DAL\\PesekarFutbolLiqasi.DAL.csproj|solutionrelative:pesekarfutbolliqasi.dal\\migrations\\20240518123522_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:937911271:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1223701457:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1243899234:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240518123522_initialDb.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Migrations\\20240518123522_initialDb.cs",
+              "RelativeDocumentMoniker": "PesekarFutbolLiqasi.DAL\\Migrations\\20240518123522_initialDb.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Migrations\\20240518123522_initialDb.cs",
+              "RelativeToolTip": "PesekarFutbolLiqasi.DAL\\Migrations\\20240518123522_initialDb.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwFUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:35:22.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PesekarFutbolLiqasi.DAL\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "PesekarFutbolLiqasi.DAL\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:44:02.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Futbolcu.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Models\\Futbolcu.cs",
+              "RelativeDocumentMoniker": "PesekarFutbolLiqasi.DAL\\Models\\Futbolcu.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Models\\Futbolcu.cs",
+              "RelativeToolTip": "PesekarFutbolLiqasi.DAL\\Models\\Futbolcu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:43:58.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Komanda.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Models\\Komanda.cs",
+              "RelativeDocumentMoniker": "PesekarFutbolLiqasi.DAL\\Models\\Komanda.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Models\\Komanda.cs",
+              "RelativeToolTip": "PesekarFutbolLiqasi.DAL\\Models\\Komanda.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:43:49.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Oyun.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Models\\Oyun.cs",
+              "RelativeDocumentMoniker": "PesekarFutbolLiqasi.DAL\\Models\\Oyun.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Models\\Oyun.cs",
+              "RelativeToolTip": "PesekarFutbolLiqasi.DAL\\Models\\Oyun.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:12:20.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\Pe\u015F\u0259karFutbolLiqas\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "Pe\u015F\u0259karFutbolLiqas\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\Pe\u015F\u0259karFutbolLiqas\u0131\\Program.cs",
+              "RelativeToolTip": "Pe\u015F\u0259karFutbolLiqas\u0131\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:12:20.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FutbolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Context\\FutbolDbContext.cs",
+              "RelativeDocumentMoniker": "PesekarFutbolLiqasi.DAL\\Context\\FutbolDbContext.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Context\\FutbolDbContext.cs",
+              "RelativeToolTip": "PesekarFutbolLiqasi.DAL\\Context\\FutbolDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:12:20.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomSQLConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Util\\CustomSQLConnection.cs",
+              "RelativeDocumentMoniker": "PesekarFutbolLiqasi.DAL\\Util\\CustomSQLConnection.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Util\\CustomSQLConnection.cs",
+              "RelativeToolTip": "PesekarFutbolLiqasi.DAL\\Util\\CustomSQLConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:36:19.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Repositories\\Implentations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "PesekarFutbolLiqasi.DAL\\Repositories\\Implentations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Repositories\\Implentations\\GenericRepository.cs",
+              "RelativeToolTip": "PesekarFutbolLiqasi.DAL\\Repositories\\Implentations\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:12:20.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\Interfaces\\IGenericManagement.cs",
+              "RelativeDocumentMoniker": "Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\Interfaces\\IGenericManagement.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\Interfaces\\IGenericManagement.cs",
+              "RelativeToolTip": "Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\Interfaces\\IGenericManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:12:20.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OyunManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\OyunManagement.cs",
+              "RelativeDocumentMoniker": "Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\OyunManagement.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\OyunManagement.cs",
+              "RelativeToolTip": "Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\OyunManagement.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwDwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:12:20.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FutbolcuManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\FutbolcuManagement.cs",
+              "RelativeDocumentMoniker": "Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\FutbolcuManagement.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\FutbolcuManagement.cs",
+              "RelativeToolTip": "Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\FutbolcuManagement.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwEUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:12:20.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "PesekarFutbolLiqasi.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "PesekarFutbolLiqasi.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:12:20.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KomandaManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\KomandaManagement.cs",
+              "RelativeDocumentMoniker": "Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\KomandaManagement.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\KomandaManagement.cs",
+              "RelativeToolTip": "Pe\u015F\u0259karFutbolLiqas\u0131\\Management\\KomandaManagement.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:12:20.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesakarFutbolLiqasi.BL\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "PesakarFutbolLiqasi.BL\\Services\\Interfaces\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesakarFutbolLiqasi.BL\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeToolTip": "PesakarFutbolLiqasi.BL\\Services\\Interfaces\\IGenericService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:12:20.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesakarFutbolLiqasi.BL\\Services\\GenericService.cs",
+              "RelativeDocumentMoniker": "PesakarFutbolLiqasi.BL\\Services\\GenericService.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\Ali\\PesekarFutbolLiqasi\\PesekarFutbolLiqasi\\PesakarFutbolLiqasi.BL\\Services\\GenericService.cs",
+              "RelativeToolTip": "PesakarFutbolLiqasi.BL\\Services\\GenericService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:12:20.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
